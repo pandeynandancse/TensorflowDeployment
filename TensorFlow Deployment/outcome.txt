@@ -1,0 +1,25 @@
+week1  :: training models in web browser 
+
+week2 :: training models in web browser  and visualizing callbacks via graph
+
+
+week 3: converting python -  tensorflow model to json 
+		a) install tensorflowjs
+		b) train model
+		c) save model using in keras first -->> outfile file will be .h5
+		d) convert this into json using tensorflowjs_converter
+
+
+
+
+
+
+		country.append(sgd.get_value(i, 'Country Name'))
+    population.append(sgd.get_value(i, 'Count'))
+    
+
+
+
+
+
+    6e5b6f5cf89a22362c5d79cc7e9b539b
